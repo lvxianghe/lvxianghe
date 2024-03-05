@@ -9,12 +9,7 @@
 
 | <a href="https://github.com/lvxianghe" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvxianghe&show_icons=true&theme=default&hide_border=true" alt="吕相赫's github stats" /> </a>  | <a href="https://github.com/lvxianghe" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvxianghe&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
-- 🔭 我
-- 🌱 是
-- 👯 世界上
-- 🤔 最棒的
-- 💬 我
-- 📫 是
-- 😄 吕相赫
-- ⚡ 
+- 💬 我是世界上最棒的
+- ⚡ 我是
+- 🤔 吕相赫
 -->
