@@ -1,5 +1,5 @@
 ## 吕相赫
-- 精益求精 人无完人~~
+- 精益求精 人无完人
 - 公众号：<a href="lvxianghe.icu" target="_blank"> 吕相赫成神之路
 - 小型博美预览地址：<a href="lvxianghe.icu" target="_blank"> 小型博美
 - 小型博美文档：<a href="xxx" target="_blank">小型博美文档
