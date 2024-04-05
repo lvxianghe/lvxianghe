@@ -7,6 +7,14 @@
 - 🏷️ 后端脚手架文档：<a href="https://www.yuque.com/lvxianghe-tzsng/lvxianghe/frfk4dyxr61wter8?singleDoc# 《后端脚手架》" target="_blank">后端脚手架
 - 🅱️ 哔哩哔哩：<a href="https://space.bilibili.com/97070946" target="_blank">吕相赫
 
+| <a href="https://github.com/lvxianghe" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvxianghe&show_icons=true&theme=onedark&hide_border=true" alt="吕相赫's github stats" /> </a> | <a href="https://github.com/lvxianghe" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvxianghe&layout=compact&theme=default&hide_border=true" /> |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=JourneyToGreatness&show_owner=true&theme=calm)](https://github.com/lvxianghe/JourneyToGreatness) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=CodeJourney&show_owner=true&theme=calm)](https://github.com/lvxianghe/CodeJourney) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=front-end-scaffolding&show_owner=true&theme=calm)](https://github.com/lvxianghe/front-end-scaffolding) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=back-end-scaffolding&show_owner=true&theme=calm)](https://github.com/lvxianghe/back-end-scaffolding) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=xiaoxingbomei-front&show_owner=true&theme=calm)](https://github.com/lvxianghe/xiaoxingbomei-front) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=xiaoxingbomei-back&show_owner=true&theme=calm)](https://github.com/lvxianghe/xiaoxingbomei-back) |
+
+
+
 | <a href="https://github.com/lvxianghe" target="_blank"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvxianghe&show_icons=true&theme=onedark&hide_border=true" alt="吕相赫's github stats" /> </a>  | <a href="https://github.com/lvxianghe" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvxianghe&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
