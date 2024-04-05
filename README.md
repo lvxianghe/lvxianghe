@@ -14,4 +14,7 @@
 - 🤔 吕相赫
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=JourneyToGreatness&show_owner=1)](https://github.com/lvxianghe/JourneyToGreatness)
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=JourneyToGreatness&show_owner=true&theme=calm)](https://github.com/lvxianghe/JourneyToGreatness) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=CodeJourney&show_owner=true&theme=calm)](https://github.com/lvxianghe/CodeJourney) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=front-end-scaffolding&show_owner=true&theme=calm)](https://github.com/lvxianghe/front-end-scaffolding) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=back-end-scaffolding&show_owner=true&theme=calm)](https://github.com/lvxianghe/back-end-scaffolding) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=xiaoxingbomei-front&show_owner=true&theme=calm)](https://github.com/lvxianghe/xiaoxingbomei-front) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=xiaoxingbomei-back&show_owner=true&theme=calm)](https://github.com/lvxianghe/xiaoxingbomei-back) |
