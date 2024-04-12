@@ -11,6 +11,17 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=front-end-scaffolding&show_owner=true&theme=material-palenight)](https://github.com/lvxianghe/front-end-scaffolding) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=back-end-scaffolding&show_owner=true&theme=ayu-mirage)](https://github.com/lvxianghe/back-end-scaffolding) |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=xiaoxingbomei-front&show_owner=true&theme=material-palenight)](https://github.com/lvxianghe/xiaoxingbomei-front) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lvxianghe&repo=xiaoxingbomei-back&show_owner=true&theme=ayu-mirage)](https://github.com/lvxianghe/xiaoxingbomei-back) |
 
+	
+服务范围：  [![服务范围：](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev)
+
+使用工具：  [![使用工具：](https://skillicons.dev/icons?i=idea,webstorm,vscode&theme=dark)](https://skillicons.dev)
+
+后端技术栈：[![后端技术栈：](https://skillicons.dev/icons?i=java,spring,maven,mysql,nginx,redis,mongodb,kafka,&theme=dark)](https://skillicons.dev)
+
+前段技术栈：[![前段技术栈：](https://skillicons.dev/icons?i=js,vue,react,nodejs,ts,npm,pnpm&theme=dark)](https://skillicons.dev)
+
+基础技术栈：[![基础技术栈：](https://skillicons.dev/icons?i=git,nginx,jenkins,docker,kubernetes&theme=dark)](https://skillicons.dev)
+
 
 
 
