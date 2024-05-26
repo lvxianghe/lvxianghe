@@ -17,11 +17,6 @@
 
 
 	
-|  服务范围  | [![服务范围：](https://skillicons.dev/icons?i=windows,apple&theme=dark)](https://skillicons.dev) |
-| :--------: | :----------------------------------------------------------- |
-|  使用工具  | [![使用工具：](https://skillicons.dev/icons?i=idea,webstorm,vscode&theme=dark)](https://skillicons.dev) |
-| 后端技术栈 | [![后端技术栈：](https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,mongodb,kafka,elasticsearch,&theme=dark)](https://skillicons.dev) |
-| 前段技术栈 | [![前段技术栈：](https://skillicons.dev/icons?i=js,vue,react,nodejs,ts,npm,pnpm&theme=dark)](https://skillicons.dev) |
-| 基础技术栈 | [![基础技术栈：](https://skillicons.dev/icons?i=git,nginx,jenkins,docker,kubernetes&theme=dark)](https://skillicons.dev) |
+
 
 
